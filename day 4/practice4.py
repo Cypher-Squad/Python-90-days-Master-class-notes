@@ -11,7 +11,7 @@ Tokyo', 'Sydney']
 #3. remove a city from the list
 cities.remove("Paris")
 
-#4. find the total of cities in the list sing len() function
+#4. find the total of cities in the list using len() function
 print(len(cities))  # Output: 4
 
 #5. loop through a list of names and print "hello, {name}!"
